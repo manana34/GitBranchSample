@@ -7,6 +7,7 @@ public class MainApp {
 		// 這是一個新加的數學運算版本
 		Math cMath = new Math();
 		System.out.print(cMath.add(10, 5));
+		System.out.print(cMath.add(20, 10));
 	}
 }
 
